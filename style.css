@@ -1,0 +1,36 @@
+body{
+    color: white;
+    background-color: rgb(144, 204, 146);
+}
+
+#heading_tag{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 80%;
+}
+
+.items{
+    font-size: 20px;
+    color: rgb(39, 39, 39);
+}
+
+#camera,#result{
+    border: 1px dashed black;
+    height: 450px;
+    width: 550px;
+}
+
+#obj,#acc{
+    font-weight: 800;
+    color: rgb(39, 39, 39);
+    font-size: 25px;
+}
+
+#cap_btn,#res_btn{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+#res_btn{
+    width: 170px;
+}
